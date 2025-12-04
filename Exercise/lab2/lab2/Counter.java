@@ -1,6 +1,5 @@
 package lab2;
 
-
 /**
  * Provides sentence counting operations.
  *
