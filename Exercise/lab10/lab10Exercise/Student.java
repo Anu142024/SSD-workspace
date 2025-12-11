@@ -2,7 +2,6 @@ package lab10Exercise;
 /**
  * A student class for storing overall grades.
  *
- * @author Anu
  */
 public class Student {
     /**
